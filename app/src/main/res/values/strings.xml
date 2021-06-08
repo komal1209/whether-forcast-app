@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherForecastingApplication</string>
+    <string name="current">Current</string>
+    <string name="history">History</string>
+
+    <string name="network_unavailable">Please check for internet connection !!</string>
+</resources>
